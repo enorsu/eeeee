@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://localhost:5500/</loc>
+    <lastmod>2025-11-01T13:42:51+02:00</lastmod>
+  </url><url>
+    <loc>https://localhost:5500/posts/games/</loc>
+    <lastmod>2025-11-01T13:40:49+02:00</lastmod>
+  </url><url>
+    <loc>https://localhost:5500/posts/games/juhkauppa/</loc>
+    <lastmod>2025-11-01T13:40:49+02:00</lastmod>
+  </url><url>
+    <loc>https://localhost:5500/posts/</loc>
+    <lastmod>2025-11-01T13:40:49+02:00</lastmod>
+  </url><url>
+    <loc>https://localhost:5500/about/</loc>
+    <lastmod>2025-11-01T13:34:08+02:00</lastmod>
+  </url><url>
+    <loc>https://localhost:5500/posts/news/</loc>
+    <lastmod>2025-11-01T13:32:21+02:00</lastmod>
+  </url><url>
+    <loc>https://localhost:5500/posts/news/anothernewgame/</loc>
+    <lastmod>2025-11-01T13:32:21+02:00</lastmod>
+  </url><url>
+    <loc>https://localhost:5500/posts/news/newgame/</loc>
+    <lastmod>2025-11-01T13:32:16+02:00</lastmod>
+  </url><url>
+    <loc>https://localhost:5500/games/</loc>
+  </url><url>
+    <loc>https://localhost:5500/news/</loc>
+  </url>
+</urlset>

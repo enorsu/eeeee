@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on Old-Games-Inc</title>
+    <link>https://localhost:5500/</link>
+    <description>Recent content in Index on Old-Games-Inc</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Nov 2025 13:40:49 +0200</lastBuildDate>
+    <atom:link href="https://localhost:5500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Juhkauppa</title>
+      <link>https://localhost:5500/posts/games/juhkauppa/</link>
+      <pubDate>Sat, 01 Nov 2025 13:40:49 +0200</pubDate>
+      <guid>https://localhost:5500/posts/games/juhkauppa/</guid>
+      <description>&lt;p&gt;saasdadsdsd&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://localhost:5500/about/</link>
+      <pubDate>Sat, 01 Nov 2025 13:34:08 +0200</pubDate>
+      <guid>https://localhost:5500/about/</guid>
+      <description>&lt;h1 id=&#34;old-games-inc&#34;&gt;Old-Games Inc&lt;/h1&gt;&#xA;&lt;p&gt;We were established back in 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anothernewgame</title>
+      <link>https://localhost:5500/posts/news/anothernewgame/</link>
+      <pubDate>Sat, 01 Nov 2025 13:32:21 +0200</pubDate>
+      <guid>https://localhost:5500/posts/news/anothernewgame/</guid>
+      <description>&lt;p&gt;eeeee&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Newgame</title>
+      <link>https://localhost:5500/posts/news/newgame/</link>
+      <pubDate>Sat, 01 Nov 2025 13:32:16 +0200</pubDate>
+      <guid>https://localhost:5500/posts/news/newgame/</guid>
+      <description>&lt;p&gt;hhhh&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

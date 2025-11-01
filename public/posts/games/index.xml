@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Old-Games-Inc</title>
+    <link>https://localhost:5500/posts/games/</link>
+    <description>Recent content on Old-Games-Inc</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Nov 2025 13:40:49 +0200</lastBuildDate>
+    <atom:link href="https://localhost:5500/posts/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Juhkauppa</title>
+      <link>https://localhost:5500/posts/games/juhkauppa/</link>
+      <pubDate>Sat, 01 Nov 2025 13:40:49 +0200</pubDate>
+      <guid>https://localhost:5500/posts/games/juhkauppa/</guid>
+      <description>&lt;p&gt;saasdadsdsd&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
